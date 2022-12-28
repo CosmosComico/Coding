@@ -1,1 +1,1 @@
-print("what's up foo!");
+print("negaaaaaaa");
