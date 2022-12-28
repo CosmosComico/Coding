@@ -1,1 +1,2 @@
-print("test!!!")
+print(whoisabitch);
+print(diabetes);
