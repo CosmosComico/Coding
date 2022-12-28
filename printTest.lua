@@ -1,2 +1,1 @@
-print(whoisabitch);
-print(diabetes);
+print(arga);
